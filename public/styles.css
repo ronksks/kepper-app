@@ -23,6 +23,11 @@ header h1 {
   font-family: "McLaren", cursive;
   font-weight: 200;
 }
+.time{
+   margin: 0,80%,10%,10%;
+  /* float: left; */ */
+  /* padding :60px; */
+}
 
 footer {
   position: absolute;

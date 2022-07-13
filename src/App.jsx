@@ -7,7 +7,7 @@ import notes from "./notes";
 function App() {
     return (
         <div>
-            <Heading />
+            <Heading/>
             {notes.map((noteItem)=>
             <Note
             key={noteItem.id}
